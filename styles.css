@@ -65,3 +65,9 @@ body {
     float: left;
     height: 300px;
 }
+
+.references {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
